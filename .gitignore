@@ -1,0 +1,8 @@
+node_modules/
+.idea/.name
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/angularCourse.iml
+.idea/misc.xml
+.idea/watcherTasks.xml
+.idea/modules.xml
